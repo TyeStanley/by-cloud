@@ -1,0 +1,14 @@
+@import-normalize;
+@import '../css/navbar.css';
+@import '../css/footer.css';
+@import '../css/homepage.css';
+
+*, *::before, *::after {
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
